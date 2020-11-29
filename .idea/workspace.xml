@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="578c6c99-3d74-47b0-81ab-823ebc9e18c5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kqTTF19sXWDZpE9FTwQv4VjzNr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Program" />
+      <module name="BuildingWithTenants" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Program" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="578c6c99-3d74-47b0-81ab-823ebc9e18c5" name="Default Changelist" comment="" />
+      <created>1606427128553</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606427128553</updated>
+      <workItem from="1606427129618" duration="361000" />
+      <workItem from="1606428277009" duration="3514000" />
+      <workItem from="1606456083490" duration="2507000" />
+      <workItem from="1606458619169" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2693" y="227" key="#com.intellij.ide.util.MemberChooser" timestamp="1606430122832">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2693" y="227" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1044/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606430122832" />
+    <state x="2663" y="298" width="424" height="483" key="FileChooserDialogImpl" timestamp="1606457039731">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="298" width="424" height="483" key="FileChooserDialogImpl/0.0.1920.1044/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606457039731" />
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom" timestamp="1606458591356">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1044/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606458591356" />
+    <state width="1874" height="287" key="GridCell.Tab.0.center" timestamp="1606458591356">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.center/0.0.1920.1044/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606458591356" />
+    <state width="1874" height="287" key="GridCell.Tab.0.left" timestamp="1606458591356">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.left/0.0.1920.1044/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606458591356" />
+    <state width="1874" height="287" key="GridCell.Tab.0.right" timestamp="1606458591356">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="287" key="GridCell.Tab.0.right/0.0.1920.1044/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606458591356" />
+    <state x="2544" y="247" key="run.anything.popup" timestamp="1606430669431">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2544" y="247" key="run.anything.popup/0.0.1920.1044/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606430669431" />
+  </component>
+</project>
